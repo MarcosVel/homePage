@@ -1,0 +1,35 @@
+AULA 240-----------------------------------------------
+	- configurei melhor o menu;
+	- retirei bolinhas da lista (list-style);
+	- retirei sublinhado do link (text-decoration);
+
+
+
+
+
+AULA 241/42-----------------------------------------------
+	- adicionei o form e o posicionei;
+	- usei name na label input do register para saber que é o mesmo, agrupando-os;
+	
+
+
+
+
+AULA 245-----------------------------------------------
+	- adicionei a responsividade no header, retirando o menu e ajustando o register;
+
+AULA 246-----------------------------------------------
+	- adicionei o menu bars, estilizei;
+	- utilizei justify-content: space-between; para posicionaro logo e o menu nos cantos;
+
+
+AULA 247-----------------------------------------------
+	- ensinou a configurar o menu;
+
+
+
+AULA 248-----------------------------------------------
+	- ensinou a configurar o menu para abrir e fechar com js;
+
+
+
